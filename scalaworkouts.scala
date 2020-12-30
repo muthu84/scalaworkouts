@@ -710,7 +710,7 @@ object scalaworkouts {
 		println (sum1)
 		stringList(List("muthu","nithya","spark","hadoop"))
 		mapEx (Map("India" -> "Delhi","USA"->"New York","UK"->"London"));
-		extractWords("Hello how are you doing?. This home made house")
+		extractWords("Hello how are you doing?. This is home made sweet")
 	}
 
 
